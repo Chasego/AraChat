@@ -21,7 +21,7 @@ _Details of each schedule and task will be added later._
 # Resource
 
 1. __[BitTiger Project: AppStore - Website]__ https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e
-2. __[Design & Implementation of WeChat Backend System] http://goo.gl/rZPdHY
+2. __[Design & Implementation of WeChat Backend System]__ http://goo.gl/rZPdHY
 
 # Language & Framework
 
