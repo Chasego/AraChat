@@ -20,6 +20,11 @@ Based on our experiences on web development and descriptions metioned above, we 
 
 _Details of each schedule and task will be added later._
 
+Tasks
+-----
+
+Please refer to https://github.com/BitTigerInst/AraChat/issues/3 for ongoing tasks.
+
 Resource
 --------
 
