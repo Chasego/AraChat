@@ -9,6 +9,17 @@ No matter you'd like to assemble your own [WeChat](http://www.wechat.com/en/), o
 
 Our ultimate goal is to save your time on prototyping and have you have more funs on creating your own Wechat by making chat application creation as easy and simply as just clicking, dragging and assembling modules on a website.
 
+Architecture
+------------
+
+<p align="center">
+  <img src="https://d14xs1qewsqjcd.cloudfront.net/assets/i/technology/meteor_framework.svg" alt="Serenity" height="400" width="600"/>
+  <p align="center">
+  <b><i>General Architecture from Meteor Homepage<i></b>
+  </p>
+</p>
+
+
 Plan
 ----
 
@@ -30,11 +41,14 @@ Resource
 
 1. __[BitTiger Project: AppStore - Website]__ https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e
 2. __[Design & Implementation of WeChat Backend System]__ http://goo.gl/rZPdHY
+3. __[FireChat & Firebase]__ https://github.com/firebase/firechat | https://firechat.firebaseapp.com/
+4. __[Chat Server]__ http://rosettacode.org/wiki/Chat_server
 
 Language & Framework
 --------------------
 
 + Javascript: Meteor, Node.js
++ Java
 
 Development Guildlines
 ----------------------
