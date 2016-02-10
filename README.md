@@ -19,7 +19,6 @@ Architecture
   </p>
 </p>
 
-
 Plan
 ----
 
