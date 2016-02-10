@@ -15,7 +15,7 @@ Architecture
 <p align="center">
   <img src="https://d14xs1qewsqjcd.cloudfront.net/assets/i/technology/meteor_framework.svg" alt="Serenity" height="400" width="600"/>
   <p align="center">
-  <b><i>General Architecture from Meteor Homepage<i></b>
+  <b>General Architecture from Meteor Homepage</b>
   </p>
 </p>
 
